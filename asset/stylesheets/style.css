@@ -1,0 +1,31 @@
+
+
+.navbar{
+	margin: 0 auto;
+}
+.jumbotron h1,p{
+	text-align: center;
+	padding: 20px;
+	color: white;
+}
+
+.btn{
+	background-color: white;
+	color: black;
+	border-color: white;
+
+
+}
+div.jumbotron{
+	background-image: url("http://www.planwallpaper.com/static/images/Eiffel-Tower-lanscape-Wallpaper-HD.jpg");
+	background-image:cover;
+	height:600px;
+}
+.fonts{
+	text-align: center;
+	padding: 10px;
+}
+.jumbotron hr{
+	border-width: 2px;
+	max-width: 300px;
+}
